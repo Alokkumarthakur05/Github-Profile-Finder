@@ -1,1 +1,2 @@
 # Github-Profile-Finder
+The GitHub User Info Finder is a web application designed to fetch and display detailed information about GitHub users. By simply entering a GitHub username, users can retrieve profile information including the avatar, name, bio, number of public repositories, followers, and following count. This project leverages the GitHub API to provide real-time data, and it is built using HTML, CSS, and JavaScript for a seamless user experience.
